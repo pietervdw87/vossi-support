@@ -5,4 +5,4 @@ Learn new words while you play — a friendly vocabulary game for children and b
 - 📄 [Privacy Policy](privacy.md)
 - 💬 [Support](support.md)
 
-For questions or feedback, [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues).
+For questions or feedback, [open an issue](https://github.com/pietervdw87/vossi-support/issues).
