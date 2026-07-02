@@ -44,4 +44,4 @@ We may update this policy from time to time. Any changes will be posted on this 
 
 If you have any questions about this Privacy Policy, please open an issue on our GitHub page:
 
-**https://github.com/pietervdw87/vossi-support/issues**
+[open an issue](https://github.com/pietervdw87/vossi-support/issues)
