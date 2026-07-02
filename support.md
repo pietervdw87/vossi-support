@@ -4,9 +4,11 @@ Need help with Vossi? We're happy to assist.
 
 ## Contact
 
-**Email: YOUR_SUPPORT_EMAIL_HERE**
+The best way to reach us is to **open an issue** on our GitHub page:
 
-We aim to respond within a few business days.
+👉 [open an issue](https://github.com/pietervdw87/vossi-support/issues)
+
+Please describe your question or problem and, if helpful, your device and iOS version. We aim to respond within a few business days.
 
 ## Frequently asked questions
 
