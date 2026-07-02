@@ -42,6 +42,6 @@ We may update this policy from time to time. Any changes will be posted on this 
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions about this Privacy Policy, please open an issue on our GitHub page:
 
-**YOUR_SUPPORT_EMAIL_HERE**
+**https://github.com/pietervdw87/vossi-support/issues**
